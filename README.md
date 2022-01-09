@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tyler M., @TheCodingMarine
-- 👀 I’m interested in Python, Web Development, Data Science, and Machine Learning
+- 👋 Hi, I’m Tyler M., @TheCodingMarine.
+- 👀 I’m interested in Python, Web Development, Data Science, and Machine Learning.
 - 🌱 I’m currently learning core Python and statistics. 
-- 💞️ I’m looking to collaborate on web scraping projects for data aggregation, general Python projects, machine learning fundamentals, and C++ projects (to kick the rust off)
+- 💞️ I’m looking to collaborate on web scraping projects for data aggregation, general Python projects, machine learning fundamentals, and C++ projects (to kick the rust off).
 - 📫 Best place to reach me is here or via email. 
 
 <!---
