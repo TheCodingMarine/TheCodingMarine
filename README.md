@@ -1,15 +1,18 @@
 - 👋 Hi, I’m Tyler M., @TheCodingMarine.
-- 👀 I’m interested in Python, Web Development, Data Science, and Machine Learning.
-- 🌱 I’m currently learning core Python and statistics. 
-- 💞️ I’m looking to collaborate on web scraping projects for data aggregation, general Python projects, machine learning fundamentals, and C++ projects (to kick the rust off).
+- I'm an autodidact and self-taught programmer. I chart my learning paths and goals in detailed spreadsheets.
+- 👀 I’m interested in Python, algorithms, web development, data science, and machine learning.
+- 🌱 I’m currently learning Flask, algorithms, and data structures.
+- 💞️ I’m looking to collaborate on machine learning, algorithm implementation, web application development, building Python modules, and extending Python with C++.
 - 📫 Best place to reach me is here or via email. 
 
 
-Reading List:
+Reading list for 2022:
 - Learning Python by Mark Lutz
 - Programming Python by Mark Lutz
-- Architecture Patterns with Python by Harry Percival and Bob Gregory
-- High Performance Python by Micha Gorelick and Ian Ozsvald
+- Learning Algorithms by George Heineman
+- Dive into Algorithms by Bradford Tuckfield
+- Understanding the Machine by Randall Hyde
+- Thinking Low-Level, Writing High-Level by Randall Hyde
 - Python for Data Analysis by Wes McKinney
 - Practical Statistics for Data Scientists
 - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow by Aurelien Geron
@@ -17,7 +20,9 @@ Reading List:
 - Building Machine Learning Pipelines by Hannes Hapke and Caherine Nelson
 - Building Machine Learning Powered Applicaions by Emmanuel Ameisen
 
-Further Reading Considerations:
+Additional reading as time allows:
+- Architecture Patterns with Python by Harry Percival and Bob Gregory
+- High Performance Python by Micha Gorelick and Ian Ozsvald
 - Fundamentals of Software Architecture by Mark Richards and Neal Ford
 - Flask Web Development by Miguel Grinberg
 - Test-Driven Development with Python by Harry Percival
