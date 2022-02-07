@@ -10,7 +10,6 @@ Reading list for 2022:
 - Learning Python by Mark Lutz
 - Programming Python by Mark Lutz
 - Learning Algorithms by George Heineman
-- Dive into Algorithms by Bradford Tuckfield
 - Understanding the Machine by Randall Hyde
 - Thinking Low-Level, Writing High-Level by Randall Hyde
 - Python for Data Analysis by Wes McKinney
