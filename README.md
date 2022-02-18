@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyler M., @TheCodingMarine.
-- I'm an autodidact and chart my learning paths and goals in detailed spreadsheets.
+- I'm an autodidact, charting my learning paths and goals in detailed spreadsheets.
 - 👀 I’m interested in Python, algorithms, web development, data science, and machine learning.
 - 🌱 I’m currently learning Flask, algorithms, and data structures.
 - 💞️ I’m looking to collaborate on machine learning, algorithm implementation, web application development, building Python modules, and extending Python with C++.
