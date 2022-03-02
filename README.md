@@ -3,7 +3,6 @@
 - 👀 I’m interested in Python, algorithms, web development, data science, and machine learning.
 - 🌱 I’m currently learning Flask, algorithms, and data structures.
 - 💞️ I’m looking to collaborate on machine learning, algorithm implementation, web application development, building Python modules, and extending Python with C++.
-- 📫 Best place to reach me is here or via email. 
 
 
 Reading list:
@@ -12,7 +11,6 @@ Reading list:
 - Essential SQLAlchemy: Mapping Python to Databases by Jason Myers & Rick Copeland
 - Learning SQL: Generate, Manipulate, and Retrieve Data by Alan Beaulieu
 - Programming Python by Mark Lutz
-- Learning Algorithms by George Heineman
 - Introduction to Algorithms by Thomas H. Cormen
 - Understanding the Machine by Randall Hyde
 - Thinking Low-Level, Writing High-Level by Randall Hyde
@@ -26,6 +24,9 @@ Reading list:
 - Architecture Patterns with Python by Harry Percival and Bob Gregory
 - High Performance Python by Micha Gorelick and Ian Ozsvald
 - Test-Driven Development with Python by Harry Percival
+
+Accomplished Reading:
+- Learning Algorithms by George Heineman 
 <!---
 TheCodingMarine/TheCodingMarine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
