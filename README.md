@@ -1,13 +1,15 @@
-- 👋 Hi, I’m Tyler M., @TheCodingMarine.
+- Hi, I’m Tyler M., @TheCodingMarine.
 - I'm an autodidact, charting my learning paths and goals in detailed spreadsheets.
-- 👀 I’m interested in Python, algorithms, web development, data science, and machine learning.
-- 🌱 I’m currently learning Flask, algorithms, and data structures.
-- 💞️ I’m looking to collaborate on machine learning, algorithm implementation, web application development, building Python modules, and extending Python with C++.
+- I’m interested in Python, algorithms, web-development, data science, and machine learning.
+- I’m currently learning Flask, algorithms, and data structures.
+- I’m looking to collaborate on machine learning, algorithm implementation, web application development, building Python modules, and extending Python with C++.
+
+Currently Reading:
+- Learning Python by Mark Lutz
+- Test-Driven Development with Python by Harry J.W. Percival
 
 
 Reading list:
-- Learning Python by Mark Lutz
-- Flask Web Development: Developing Web Applications with Python by Miguel Grinberg
 - Essential SQLAlchemy: Mapping Python to Databases by Jason Myers & Rick Copeland
 - Learning SQL: Generate, Manipulate, and Retrieve Data by Alan Beaulieu
 - Programming Python by Mark Lutz
@@ -26,7 +28,8 @@ Reading list:
 - Test-Driven Development with Python by Harry Percival
 
 Accomplished Reading:
-- Learning Algorithms by George Heineman 
+- Learning Algorithms by George Heineman
+- Flask Web-Development by Miguel Grinberg
 <!---
 TheCodingMarine/TheCodingMarine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
