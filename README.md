@@ -25,7 +25,6 @@ Reading list:
 - Fundamentals of Software Architecture by Mark Richards and Neal Ford
 - Architecture Patterns with Python by Harry Percival and Bob Gregory
 - High Performance Python by Micha Gorelick and Ian Ozsvald
-- Test-Driven Development with Python by Harry Percival
 
 Accomplished Reading:
 - Learning Algorithms by George Heineman
