@@ -1,12 +1,10 @@
 - Hi, I’m Tyler M., @TheCodingMarine.
 - I'm an autodidact, and chart my learning paths in detailed spreadsheets.
-- I’m interested in Python, algorithms, web-development, data science, and machine learning.
-- I’m currently learning Django, test-driven development, algorithms, and data structures.
+- I’m interested in Python, web-development, algorithms, data-structures, and data science.
+- I currently maintain a private git repository on my personal server that sees the bulk of updates. As I complete more open source side projects, those updates will be pushed to GitHub
 
 Currently Reading:
 - Learning Python by Mark Lutz
-- Test-Driven Development with Python by Harry J.W. Percival
-
 
 Reading list:
 - Essential SQLAlchemy: Mapping Python to Databases by Jason Myers & Rick Copeland
@@ -24,6 +22,7 @@ Reading list:
 - Fundamentals of Software Architecture by Mark Richards and Neal Ford
 - Architecture Patterns with Python by Harry Percival and Bob Gregory
 - High Performance Python by Micha Gorelick and Ian Ozsvald
+
 
 Accomplished Reading:
 - Learning Algorithms by George Heineman
