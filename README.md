@@ -1,7 +1,4 @@
-- Hi, I’m Tyler M., @TheCodingMarine.
-- I'm an autodidact, and chart my learning paths in detailed spreadsheets.
-- I’m interested in Python, web-development, algorithms, data-structures, and data science.
-- I currently maintain a private git repository on my personal server that sees the bulk of updates. As I complete more open source side projects, those updates will be pushed to GitHub
+Hello and welcome! My name is Tyler and I am a Python Developer. My studies and practice in Python range from CLI apps to Flask applications, and web-development to data science. I am autodidact and self-taught in Python. My self-directed learning plans are meticulously laid out to include a deeper understanding of data science, web-development, algorithms and analysis, data structures, and becoming a world class Pythonista. My first language is C++ which I learned over the course of a semester in an engineering degree program. Languages I look to add or improve on in the future are JavaScript and C++. Both of which relating back 
 
 Currently Reading:
 - Learning Python by Mark Lutz
