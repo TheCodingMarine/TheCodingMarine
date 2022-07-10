@@ -2,6 +2,10 @@ Hello and welcome! My name is Tyler and I am a Python Developer. My studies and 
 
 I use GitHub as a repository for projects but also maintain my own private Git server, so the activity tracker will not be truly reflective of how much coding I actually do.
 
+Currently Learning:
+- JavaScript
+- React
+
 Currently Reading:
 - Learning Python by Mark Lutz
 - Web Security for Developers by Malcolm McDonald
