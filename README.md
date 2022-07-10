@@ -1,4 +1,4 @@
-Hello and welcome! My name is Tyler and I am a Python Developer. I am a Python autodidact. My self-directed learning paths have been meticulously developed to cover topics, and associated frameworks/libraries, in data science, web-development, the standard library, databases (relational and document), object-oriented programming, algorithms, and data structures. My overarching goal is to become a world class Pythonista.
+Hello and welcome! My name is Tyler and I am a self-taught Python Developer. My self-directed learning paths have been meticulously developed to cover topics, and associated frameworks/libraries, in data science, web-development, the standard library, databases (relational and document), object-oriented programming, algorithms, and data structures. My overarching goal is to become a world class Pythonista.
 
 Currently, I am learning JavaScript in order to round out my web development knowledge and build awesome frontends connected to a Python backend utilizing either Flask or Django.
 
