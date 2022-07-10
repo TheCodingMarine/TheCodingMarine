@@ -1,10 +1,6 @@
-Hello and welcome! My name is Tyler and I am a Python Developer. My studies and practice in Python consist of everything from web-development to CLI applications and even data science. I am an autodidact and self-taught in Python. My self-directed learning plans are meticulously laid out to include a deeper understanding of data science, web-development, algorithms and analysis, data structures, and becoming a world class Pythonista. My first language is C++ which I learned over the course of a semester in an engineering degree program. Languages I look to add or improve on in the future are JavaScript and C++. Both of which relating back to Python development for the web and extensions.
+Hello and welcome! My name is Tyler and I am a Python Developer. I am a Python autodidact. My self-directed learning paths have been meticulously developed to cover topics, and associated frameworks/libraries, in data science, web-development, the standard library, databases (relational and document), object-oriented programming, algorithms, and data structures. My overarching goal is to become a world class Pythonista.
 
-I use GitHub as a repository for projects but also maintain my own private Git server, so the activity tracker will not be truly reflective of how much coding I actually do.
-
-Currently Learning:
-- JavaScript
-- React
+Currently, I am learning JavaScript in order to round out my web development knowledge and build awesome frontends connected to a Python backend utilizing either Flask or Django.
 
 Currently Reading:
 - Learning Python by Mark Lutz
